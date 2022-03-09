@@ -1,0 +1,5 @@
+.env
+.vscode/
+assets/
+output/
+venv/
